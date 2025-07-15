@@ -1,3 +1,6 @@
+import os
+os.system("pip install -r requirements.txt")
+
 import streamlit as st
 import numpy as np
 import tensorflow as tf
